@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 [Next release](https://github.com/barryvdh/laravel-ide-helper/compare/v2.10.0...master)
 --------------
 
+2021-04-09, 2.10.1
+
+- Temporary fix for Oracle added.
+
 2021-04-09, 2.10.0
 ------------------
 ### Added
